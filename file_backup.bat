@@ -1,6 +1,6 @@
 @echo off
 echo.
-echo Backup Facility
+echo Backup Facility v.1.0.0
 echo for [enter details]
 :: COPIES FILE WITHOUT DISPLAYING FILE NAMES WHILE COPYING AND OVERWRITES EXISTING FILE WITHOUT PROMPTING
 echo.
